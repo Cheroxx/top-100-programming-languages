@@ -15,8 +15,8 @@ Data science & data visualization
 Scripting & automation
 Web scraping
 Audiovisual media
-Computer-aided designing
-Embedded systems 
+Computer-aided design (CAD)
+Embedded systems (Raspberry Pi)
 ```
 
 Extensions:
@@ -46,12 +46,12 @@ Extensions:
 Applications:
 ```
 Operating system development (Windows, Apple)
-Browsers (Internet Explorer, Mozilla Firefox, Google Chrome all written in C++)
-GUI-based software
+Browsers (Internet Explorer, Mozilla Firefox, Google Chrome written in C++)
+GUI-based software (Adobe)
 Enterprise software & software development
 Game development
 Advanced computation & graphics
-Database software (MySQL, Postgres both written in C++)
+Database software (MySQL, Postgres written in C++)
 Cloud storage systems
 Embedded systems
 ```
