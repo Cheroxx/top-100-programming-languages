@@ -21,24 +21,8 @@ Embedded systems (Raspberry Pi)
 
 Extensions:
 ```
- .py
- .cgi
- .fcgi
- .gyp
- .gypi
- .lmi
- .py3
- .pyde
- .pyi
- .pyp
- .pyt
- .pyw
- .rpy
- .smk
- .spec
- .tac
- .wsgi
- .xpy 
+.py  .cgi  .fcgi  .gyp  .gypi  .lmi  .py3  .pyde  .pyi  .pyp  .pyt  .pyw
+               .rpy  .smk  .spec  .tac  .wsgi  .xpy 
  ```
  
 ### C++
@@ -58,24 +42,9 @@ Embedded systems
 
 Extensions:
 ```
-.cpp
-.c++
-.cc
-.cp
-.cxx
-.h
-.h++
-.hh
-.hpp
-.hxx
-.inc
-.inl
-.ino
-.ipp
-.re
-.tcc
-.tpp
-  ```
+.cpp  .c++  .cc  .cp  .cxx  .h  .h++  .hh  .hpp  .hxx
+      .inc  .inl  .ino  .ipp  .re  .tcc  .tpp
+```
   
 - Javascript
 - C#
