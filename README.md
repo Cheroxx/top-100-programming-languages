@@ -95,7 +95,7 @@ Extensions:
 - Delphi/Object Pascal
 - Bash
 - Visual Basic
-- Objective-C
+- XML
 - Go
 
 #### 21-30:
@@ -142,7 +142,7 @@ Extensions:
 - Visual FoxPro ABC
 - ActionScript
 - APL
-- Cap'n Proto
+- Objective-C
 - Brainfuck
 - BlitzMax
 
