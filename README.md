@@ -1,6 +1,6 @@
 ### Top 100 Programming Languages
 
-Here is a cheatsheet on the top 100 programming languages you may come across in offensive and defensive cybersecurity.  These are in no particular order and include the most popular programming languages to familiarize yourself with and more specialized languages utilized in different areas.  
+Here is a cheatsheet on the top 100 programming languages you may come across in offensive and defensive cybersecurity.  These are listed in no particular order and include the most popular programming languages to familiarize yourself with and more specialized languages utilized in different areas.  
 
 #### 1 - 10:
 ### Python
