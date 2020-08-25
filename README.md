@@ -7,7 +7,6 @@ Here is a cheatsheet on the top 100 programming languages you may come across in
 
 Applications:
 ```
-Object-oriented, cross-platform, scalable
 Front-end and back-end web applications
 Web development
 Game development
