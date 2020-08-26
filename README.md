@@ -125,7 +125,6 @@ Functional programming
 Runs on Linux, Mac OS X, Android, iOS, Windows, GPUs, and browsers
 WinForms (Windows forms) & WPF
 Cloud storage systems (Microsoft Azure)
-Microsoft .NET Framework
 ```
 
 Sample code:
@@ -165,7 +164,31 @@ let daysOfWeek includeWeekend =
 - MQL4
 - D
 - R
-- Visual Basic .NET
+### Visual Basic .NET
+
+Applications:
+```
+Microsoft .NET Framework
+```
+
+Sample code:
+```vb
+Private newPropertyValue As String
+Public Property NewProperty() As String
+    Get
+        Return newPropertyValue
+    End Get
+    Set(ByVal value As String)
+        newPropertyValue = value
+    End Set
+End Property
+```
+
+Extensions:
+```
+.vb  .vbhtml
+```
+
 - Q
 
 #### 51-60:
