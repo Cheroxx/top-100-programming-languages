@@ -7,8 +7,8 @@ Here is a cheatsheet on the top 100 programming languages you may come across in
 
 Applications:
 ```
-Front-end and back-end web applications
-Web development
+Front-end and back-end web applications 
+Web development Google, Pinterest, Instagram, YouTube, DropBox, NASA
 Game development
 Machine learning & artificial intelligence
 Data science & data visualization
@@ -31,7 +31,7 @@ Applications:
 Operating system development (Windows, Apple)
 Browsers (Internet Explorer, Mozilla Firefox, Google Chrome written in C++)
 GUI-based software (Adobe)
-Enterprise software & software development
+Enterprise software & software development (Winamp, Amazon, Lockheed Martin)
 Game development
 Advanced computation & graphics
 Database software (MySQL, Postgres written in C++)
@@ -49,7 +49,7 @@ Extensions:
 Applications:
 ```
 Front-end and back-end web applications (mostly front-end)
-Website development & web design
+Website development & web design (WordPress, Soundcloud, Linkedin, Groupon, Yahoo)
 Web servers & server applications (Node.js)
 Game development
 IoT technology
@@ -66,6 +66,8 @@ Extensions:
 Applications:
 ```
 Microsoft .NET Framework 
+Web app development (IT, engineering, professional services, management and quality control)
+Mobile & gaming development
 ```
 
 Sample code:
@@ -129,7 +131,7 @@ Applications:
 Web applications & web server development
 Desktop GUI applications
 Mobile & Android development (smartphones, tablets)
-Enterprise & large-scale software development (Google, Myntra, Trivago, TripAdvisor, Spotify, Uber, TCS, Infosys, Pinterest, eBay utilize Java)
+Enterprise & large-scale software development (Google, Myntra, Trivago, TripAdvisor, Spotify, Uber, TCS, Infosys, Pinterest, eBay)
 Advanced mathematics & science applications (MATLAB)
 Embedded systems
 Big data (Hadoop written in Java)
@@ -146,12 +148,14 @@ Extensions:
 
 Applications:
 ```
-System software development
+System software & drivers development (Microsoft, Apple, Oracle, Cisco, Raytheon)
 Operating systems development
 Compilers design
 Desktop  & GUI application software (spreadsheets, Adobe Photoshop)
 Embedded systems
 Browser and & database development
+Artificial intelligence & industrial automation development 
+Computer graphics & image processing
 ```
 
 Extensions:
@@ -165,6 +169,7 @@ Applications:
 ```
 Apple frameworks (Cocoa and Cocoa Touch)
 Apple systems & Apple apps development (iOS, macOS, watchOS, tvOS)
+Enterprise software (Apple, Getty Images, Slack, Dow Jones, Playlist Media)
 ```
 
 Extensions:
@@ -190,14 +195,13 @@ Extensions:
 .pl  .al  .cgi  .fcgi  .perl  .ph  .plx  .pm  .psgi  .t
 ```
 
-
 #### 11-20:
 ### Ruby
 
 Applications:
 ```
 Web app development & metaprogramming
-Ruby on Rails back-end web app development (written in Ruby)
+Ruby on Rails back-end web app development (Basecamp, Amazon, Twitter, Groupon, Github, Motorola)
 ```
 
 Extensions:
@@ -209,6 +213,9 @@ Extensions:
 
 Applications:
 ```
+Microsoft framework
+Command-line shell and scripting 
+Task automation and configuration management 
 ```
 
 Extensions:
@@ -216,16 +223,66 @@ Extensions:
 .ps1  .psd1  .psm1
 ```
 
-- HTML
-- CSS
-- TypeScript
+### HTML
+
+Applications:
+```
+Front-end web app development
+Dynamic integration (Django, ECR, EEX, ERB, PHP, Razor)
+Client-side website design
+Mobile design (Android)
+```
+
+Extensions:
+```
+.html  .htm  .html  .hl  .inc  .st  .xht  .xhtml
+ ```
+  
+### CSS
+
+Applications:
+```
+Front-end website design
+Web development
+Integration with HTML, Javascript
+```
+
+Extensions:
+```
+.css
+```
+
+### TypeScript
+
+Applications:
+```
+```
+
+Extensions:
+```
+.ts
+```
+
 - Awk 
 - SAS
 - Rust
 - Dart
 - Kotlin
 - Scheme
-- Golang (Go)
+
+### Golang (Go)
+
+Applications:
+```
+Web development (Google, Uber, Basecamp, Medium, Intel, BBC)
+Developed by Google
+```
+
+Extensions:
+```
+.go
+```
+
 - Fortran
 
 #### 21-30:
@@ -238,7 +295,7 @@ Extensions:
 - Dockerfile
 - Emacs
 - CWeb
-- DNS Zone
+- Assembly
 
 #### 31-40:
 - Transact-SQL
