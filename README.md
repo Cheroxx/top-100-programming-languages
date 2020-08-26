@@ -89,9 +89,63 @@ Extensions:
 .cs  .cake  .csx  .linq
 ```
  
-- SQL
-- PHP
-- Java
+### SQL
+
+Applications:
+```
+Structured query language (SQL) for relational database management
+Data stream management systems
+Often SQL code embedded in other programming languages (C++, PHP, Javascript, Python)
+```
+
+Sample code:
+```
+SQLExecDirect(hstmt, "SELECT OrderID FROM Orders WHERE Status = 'OPEN'", SQL_NTS);
+```
+
+Extensions (Microsoft SQL server):
+```
+.mdf  .sdf  .sql  .atomsvc  .dsn  .rul  .abf  .dmx  .ckp  .mdx  .ndf  .mdx  .qry  .rll
+    .sqlce  .sqlplan  .tab   .tql   .tsql  .xpp
+```
+
+### PHP
+
+Applications:
+```
+Back-end web development
+Web content management systems (CMS) development (WordPress, Facebook, Joomla, Drupal, Moodle, Silverstripe, MediaWiki, Digg) 
+Supports server side databases (MySQL, Oracle, MS Access)
+eCommerce (OpenCart, Magento, PrestaShop, Zen Cart, AgoraCart, Ubercart written in PHP)
+Image processing & graphic design
+GUI-based desktop applications
+```
+
+Extensions:
+```
+.php  .aw  .ctp  .fcgi  .inc  .php3  .php4  .php5  .phps  .phpt
+```
+
+### Java
+
+Applications:
+```
+Web applications & web server development
+Desktop GUI applications
+Mobile & Android development (smartphones, tablets)
+Enterprise & large-scale software development (Google, Myntra, Trivago, TripAdvisor, Spotify, Uber, TCS, Infosys, Pinterest, eBay utilize Java)
+Advanced mathematics & science applications (MATLAB)
+Embedded systems
+Big data (Hadoop written in Java)
+Gaming & software tools
+Cloud-based development tools
+```
+
+Extensions:
+```
+.java
+```
+
 - C
 - Swift
 - Perl
