@@ -111,6 +111,18 @@ Extensions:
 - Golang (Go)
 - Fortran
 
+#### 21-30:
+- JSON
+- Ada
+- Gentoo Ebuild
+- Genie
+- GAML
+- Bison
+- Dockerfile
+- Emacs
+- CWeb
+- DNS Zone
+
 #### 31-40:
 - Transact-SQL
 - Lua
