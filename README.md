@@ -21,8 +21,7 @@ Embedded systems (Raspberry Pi)
 
 Extensions:
 ```
-.py  .cgi  .fcgi  .gyp  .gypi  .lmi  .py3  .pyde  .pyi  .pyp  .pyt  .pyw
-               .rpy  .smk  .spec  .tac  .wsgi  .xpy 
+.py  .cgi  .fcgi  .gyp  .gypi  .lmi  .py3  .pyde  .pyi  .pyp  .pyt  .pyw  .rpy  .smk  .spec  .tac  .wsgi  .xpy 
  ```
  
 ### C++
@@ -42,8 +41,7 @@ Embedded systems
 
 Extensions:
 ```
-.cpp  .c++  .cc  .cp  .cxx  .h  .h++  .hh  .hpp  .hxx
-      .inc  .inl  .ino  .ipp  .re  .tcc  .tpp
+.cpp  .c++  .cc  .cp  .cxx  .h  .h++  .hh  .hpp  .hxx  .inc  .inl  .ino  .ipp  .re  .tcc  .tpp
 ```
   
 ### Javascript
@@ -60,8 +58,7 @@ IoT technology
 
 Extensions:
 ```
-.js  ._js  .bones  .cjs  .es  .es6  .frag  .gs  .jake  .jsb  .jscad  .jsfl  .jsm
-.jss  .mjs  .njs  .pac  .sjs  .ssjs  .xsjs  .xsjslib
+.js  ._js  .bones  .cjs  .es  .es6  .frag  .gs  .jake  .jsb  .jscad  .jsfl  .jsm  .jss  .mjs  .njs  .pac  .sjs  .ssjs  .xsjs  .xsjslib
 ```
 
 ### C#
@@ -105,8 +102,7 @@ SQLExecDirect(hstmt, "SELECT OrderID FROM Orders WHERE Status = 'OPEN'", SQL_NTS
 
 Extensions (Microsoft SQL server):
 ```
-.mdf  .sdf  .sql  .atomsvc  .dsn  .rul  .abf  .dmx  .ckp  .mdx  .ndf  .mdx  .qry  .rll
-    .sqlce  .sqlplan  .tab   .tql   .tsql  .xpp
+.mdf  .sdf  .sql  .atomsvc  .dsn  .rul  .abf  .dmx  .ckp  .mdx  .ndf  .mdx  .qry  .rll  .sqlce  .sqlplan  .tab   .tql   .tsql  .xpp
 ```
 
 ### PHP
@@ -146,13 +142,80 @@ Extensions:
 .java
 ```
 
-- C
-- Swift
-- Perl
+### C
+
+Applications:
+```
+System software development
+Operating systems development
+Compilers design
+Desktop  & GUI application software (spreadsheets, Adobe Photoshop)
+Embedded systems
+Browser and & database development
+```
+
+Extensions:
+```
+.c  .cats  .h  .idc
+```
+
+### Swift
+
+Applications:
+```
+Apple frameworks (Cocoa and Cocoa Touch)
+Apple systems & Apple apps development (iOS, macOS, watchOS, tvOS)
+```
+
+Extensions:
+```
+.swift
+```
+
+### Perl
+
+Applications:
+```
+CGI (Common Gateway Interface) scripts  
+Systems administration
+Network programming
+GUI-based applications
+Bio-Informatics databases
+Web development (Slash, Bugzilla written in Perl)
+Text parsing & automation
+```
+
+Extensions:
+```
+.pl  .al  .cgi  .fcgi  .perl  .ph  .plx  .pm  .psgi  .t
+```
+
 
 #### 11-20:
-- Ruby
-- PowerShell
+### Ruby
+
+Applications:
+```
+Web app development & metaprogramming
+Ruby on Rails back-end web app development (written in Ruby)
+```
+
+Extensions:
+```
+.rb  .builder  .eye  .fcgi  .gemspec  .god  .jbuilder  .mspec  .pluginspec  .podspec  .rabl  .rake  .rbi  .rbuild  .rbw  .rbx  .ru  .ruby  .spec  .thor  .watchr
+```
+
+### PowerShell
+
+Applications:
+```
+```
+
+Extensions:
+```
+.ps1  .psd1  .psm1
+```
+
 - HTML
 - CSS
 - TypeScript
@@ -266,7 +329,7 @@ Extensions:
 - ActionScript
 - APL
 - Objective-C
-- Brainfuck
+- Slim
 - BlitzMax
 
 #### 61-70:
@@ -294,7 +357,7 @@ Extensions:
 - J
 
 #### 81-90:
-- Korn shell
+- Shell
 - ABAP
 - Maple
 - ML
