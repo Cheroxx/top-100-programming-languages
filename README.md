@@ -1,6 +1,6 @@
-### Top 100 Programming Languages
+### Top 60 Programming Languages
 
-Here is a cheatsheet on the top 100 programming languages you may come across in offensive and defensive cybersecurity.  These are listed in no particular order and include the most popular programming languages to familiarize yourself with and more specialized languages utilized in different areas.  
+Here is a cheatsheet on the top 60 programming languages you may come across in offensive and defensive cybersecurity.  These are listed in no particular order and include the most popular programming and markup languages and more specialized languages utilized in different areas.  
 
 #### 1 - 10:
 ### Python
@@ -501,8 +501,8 @@ Extensions:
 .bat  .cmd
 ```
 
-- CWeb
-- Genie
+- Elixir
+- Eiffel
 
 #### 31-40:
 - Transact-SQL
@@ -582,65 +582,29 @@ Extensions:
 .vb  .vbhtml
 ```
 
-- Q
+- Tcl
 
 #### 51-60:
 - Julia
 - Alice
-- VHDL
-- Scratch
-- Visual FoxPro ABC
-- ActionScript
+- Elm
 - APL
 - Objective-C
 - Slim
 - BlitzMax
-
-#### 61-70:
-- Bourne shell
-- C shell
-- CFML
-- Standard ML
-- CL (OS/400)
 - Clipper
 - Clojure
-- Lisp
-- Crystal
-- Eiffel
-
-#### 71-80:
-- Elixir
-- Elm
-- ChucK
-- Forth
-- Hack
-- Icon
-- IDL
-- Inform
-- Io
-- J
-
-#### 81-90:
-- Shell
-- ABAP
-- Maple
-- ML
-- NATURAL
-- NXT-G
-- OCaml
-- OpenCL
-- OpenEdge ABL
 - Oz
 
-#### 91-100:
-- PL/I
+- Crystal
+- Scratch
+- ChucK
+- Io
+- J
 - REXX
 - Ring
 - S
 - SPARK
-- SPSS
-- Stata
-- Tcl
-- VBScript
-- Verilog
+- Q
+
 
