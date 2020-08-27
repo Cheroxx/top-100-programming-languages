@@ -8,7 +8,7 @@ Here is a cheatsheet on the top 100 programming languages you may come across in
 Applications:
 ```
 Front-end and back-end web applications 
-Web development Google, Pinterest, Instagram, YouTube, DropBox, NASA
+Web development (Google, Pinterest, Instagram, YouTube, DropBox, NASA)
 Game development
 Machine learning & artificial intelligence
 Data science & data visualization
@@ -48,7 +48,7 @@ Extensions:
 
 Applications:
 ```
-Front-end and back-end web applications (mostly front-end)
+Front-end and back-end web applications (mainly front-end)
 Website development & web design (WordPress, Soundcloud, Linkedin, Groupon, Yahoo)
 Web servers & server applications (Node.js)
 Game development
@@ -256,6 +256,9 @@ Extensions:
 
 Applications:
 ```
+Front-end and back-end web development
+Large-scale web applications
+Object-oriented superset of JavaScript
 ```
 
 Extensions:
@@ -283,19 +286,79 @@ Extensions:
 .go
 ```
 
-- Fortran
+### Fortran
+
+Applications:
+```
+Computational sciences & climate modeling
+Science, physics, mathematics, engineering software development
+```
+
+Extensions:
+```
+.f  .f77  .for  .fpp
+```
+
 
 #### 21-30:
-- JSON
-- Ada
-- Gentoo Ebuild
-- Genie
+### JSON
+
+Applications:
+```
+Dynamic web design
+Data transmission between server and web app
+Data storage
+JavaScript parsing
+```
+
+Extensions:
+```
+.json  .avsc  .geojson  .gltf  .har  .ice  .JSON-tmLanguage  .jsonl  .mcmeta  .tfstate  .tfstate.backup .topojson  .webapp  .webmanifest  .yy  .yyp
+  ```
+  
+### Ada
+
+Applications:
+```
+Government defense systems (DOD, NASA, FAA)
+U.S. Department of Defense software applications
+Air traffic control & aerospace engineering (Boeing)
+Embedded systems
+Large-scale enterprise applications
+```
+
+Extensions:
+```
+.adb  .ada  .ads
+```
+
+### XML
+
+Applications:
+```
+Markup language for web app development
+Integrated with HTML for dynamic web app design 
+Data storage & data transmission
+Offloading & reloading databases
+```
+
+Extensions:
+```
+.xml  .adml  .admx  .ant  .axml  .builds  .ccproj  .ccxml  .clixml  .cproject  .cscfg  .csdef  .csl  .csproj  .ct  .depproj  .dita  .ditamap  .dll.config  .fxml  .gml  .ivy 
+ ```
+ 
+ More XML extensions:
+ ```
+.launch  .mod  .mxml  .nproj  .pkgproj  .proj  .props  .ps1xml  .psc1  .pt  .rss  .scxml  .targets  .tml  .ui  .vbproj  .vxml  .xaml  .xliff  .xmi  .zcml
+```
+
+- Assembly
 - GAML
 - Bison
 - Dockerfile
 - Emacs
 - CWeb
-- Assembly
+- Genie
 
 #### 31-40:
 - Transact-SQL
