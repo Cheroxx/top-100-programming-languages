@@ -266,13 +266,88 @@ Extensions:
 .ts
 ```
 
-- Awk 
-- SAS
-- Rust
-- Dart
-- Kotlin
-- Scheme
+### Awk 
 
+Applications:
+```
+Linux text processing & parsing
+Data manipulation (Linux/Unix)
+Basic scripting & scanning
+```
+
+Sample code/command:
+```awk
+$ awk -F, '$3>5 {print $1, $2} colors.csv > output.txt
+```
+
+Extensions:
+```
+.awk  .auk  .gawk  .mawk  .nawk
+```
+
+### SAS
+
+Applications:
+```
+Statistical Analysis System (SAS) for predictive analytics, business intelligence, multivariate analysis
+Clinical research processing & monitoring
+```
+
+Extensions:
+```
+.sas
+```
+
+### Rust
+
+Applications:
+```
+System software development 
+```
+
+Extensions:
+```
+.rs  .rs.in
+```
+
+### Dart
+
+Applications:
+```
+Web, server & mobile development
+IoT devices
+Multiplatform web app development
+```
+
+Extensions:
+```
+.dart
+```
+
+### Kotlin
+
+Applications:
+```
+Google Android development
+Integration with Java
+Web development and server-side development
+```
+
+Extensions:
+```
+.kt  .ktm  .kts
+```
+### Scheme
+
+Applications:
+```
+Computing education and research & industrial software
+```
+
+Extensions:
+```
+.scm  .sch  .sld  .sls  .sps  .ss
+```
 ### Golang (Go)
 
 Applications:
@@ -337,7 +412,7 @@ Extensions:
 Applications:
 ```
 Markup language for web app development
-Integrated with HTML for dynamic web app design 
+Integrated with HTML for dynamic web design 
 Data storage & data transmission
 Offloading & reloading databases
 ```
@@ -352,7 +427,19 @@ Extensions:
 .launch  .mod  .mxml  .nproj  .pkgproj  .proj  .props  .ps1xml  .psc1  .pt  .rss  .scxml  .targets  .tml  .ui  .vbproj  .vxml  .xaml  .xliff  .xmi  .zcml
 ```
 
-- Assembly
+### Assembly
+
+Applications:
+```
+Low-level machine code
+Hardware & device drivers
+```
+
+Extensions:
+```
+.asm  .a51  .i  .inc  .nasm
+```
+  
 - GAML
 - Bison
 - Dockerfile
