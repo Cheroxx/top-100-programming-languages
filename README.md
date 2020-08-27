@@ -440,10 +440,67 @@ Extensions:
 .asm  .a51  .i  .inc  .nasm
 ```
   
-- GAML
-- Bison
-- Dockerfile
-- Emacs
+### Powerbuilder/powerscript
+
+Applications:
+```
+Database development (financial, telecommunications, manufacturing industries & government agencies)
+Desktop cloud apps
+GUI development
+```
+
+Extensions:
+```
+.pbt  .sra  .sru  .srw
+  ```
+  
+### Ballerina
+
+Applications:
+```
+Network distributed computing
+Cloud-based development
+```
+
+Extensions:
+```
+.bal
+```
+
+### Emacs Lisp
+
+Applications:
+```
+Emacs scripting
+```
+
+Sample code:
+```emacs
+(defun my-split-window-func ()
+  (interactive)
+  (split-window-below)
+  (set-window-buffer (next-window) (other-buffer)))
+
+(global-set-key "\C-x2" 'my-split-window-func )
+```
+
+Extensions:
+```
+.el  .emacs  .emacs.desktop
+```
+
+### Batchfile
+
+Applications:
+```
+Batch scripting (Microsoft Windows)
+```
+
+Extensions:
+```
+.bat  .cmd
+```
+
 - CWeb
 - Genie
 
