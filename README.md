@@ -669,7 +669,10 @@ Extensions:
 
 Applications:
 ```
+Functional programming
+Teaching, research, commercial & industrial applications
 Artificial intelligence & machine learning
+Embedded domain specific languages development
 ```
 
 Extensions:
