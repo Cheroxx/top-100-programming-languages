@@ -501,14 +501,98 @@ Extensions:
 .bat  .cmd
 ```
 
-- Elixir
-- Eiffel
+### Elixir
+
+Applications:
+```
+Web app development (PagerDuty, Discord, E-Metro Tel, Pinterest, Moz, Changelog, Aviacommerce)
+Embedded software development 
+Functional programming 
+Multimedia processing
+```
+
+Extensions:
+```
+.ex  .exs
+```
+### Eiffel
+
+Applications:
+```
+Commercial software development
+```
+
+Extensions:
+```
+.e
+```
 
 #### 31-40:
-- Transact-SQL
-- Lua
-- Scala
-- Logo
+### REXX
+
+Applications:
+```
+User-friendly web app development
+Scripting language developed by IBM
+```
+
+Extensions:
+```
+.rexx  .pprx  .rex
+```
+### Lua
+
+Applications:
+```
+Cross-platform embedded integration to extend software applications (Nginx, Redis, Neovim, MediaWiki) 
+Web server, apps, mobile apps customization & extensibility
+Video game development & scripting
+```
+
+Sample code:
+```lua
+local Vector = {}
+Vector.__index = Vector
+
+function Vector:new(x, y, z)    -- The constructor
+  return setmetatable({x = x, y = y, z = z}, Vector)
+end
+
+function Vector:magnitude()    
+  return math.sqrt(self.x^2 + self.y^2 + self.z^2)
+end
+```
+
+Extensions:
+```
+.lua  .fcgi  .nse  .p8  .pd_lua  .rbxs  .rockspec  .wlua
+```
+
+### Scala
+
+Applications:
+```
+Functional programming & web development (Twitter, LinkedIn, Foursquare)
+Interoperable with Java
+```
+
+Extensions:
+```
+.scala  .kojo  .sbt  .sc
+```
+
+### ChucK
+
+Applications:
+```
+Music-based apps & audio software development
+Cross platform music synthesis, composition & performance (Linux, Windows, iOS, Mac OS)
+```
+
+Extensions:
+```
+.ck
+```
 
 ### F#
 
@@ -542,13 +626,72 @@ let daysOfWeek includeWeekend =
 .fs  .fsi  .fsx
  ```
  
-- ColdFusion
-- LabVIEW
-- Prolog
-- Haskell
-- COBOL
+### ColdFusion
+
+Applications:
+```
+Rapid web app development (Adobe)
+```
+
+Extensions:
+```
+.cfm  .cfml
+```
+
+### LabVIEW
+
+Applications:
+```
+Cross platform industrial control software development 
+Data acquisition, instrument control & industrial automation applications
+```
+
+Extensions:
+```
+.lvproj
+```
+
+### Prolog
+
+Applications:
+```
+Artificial intelligence & machine learning 
+Advanced science, mathematics & computational applications
+Agriculture, engineering, manufacturing & education applications
+```
+
+Extensions:
+```
+.pl  .pro  .prolog  .yap
+```
+
+### Haskell
+
+Applications:
+```
+Artificial intelligence & machine learning
+```
+
+Extensions:
+```
+.hs  .hs-boot  .hsc
+```
+
+### COBOL
+
+Applications:
+```
+Business web development
+Business, finance & administrative systems 
+```
+
+Extensions:
+```
+.cob  .cbl  .ccp  .cobol  .cpy
+```
 
 #### 41-50:
+
 - Groovy
 - MATLAB
 - Apex
@@ -556,7 +699,19 @@ let daysOfWeek includeWeekend =
 - Erlang
 - MQL4
 - D
-- R
+
+### R
+
+Applications:
+```
+Artificial intelligence & machine learning
+```
+
+Extensions:
+```
+.r  .rd  .rsx
+```
+
 ### Visual Basic .NET
 
 Applications:
@@ -582,10 +737,21 @@ Extensions:
 .vb  .vbhtml
 ```
 
-- Tcl
+### Tcl
 
 #### 51-60:
-- Julia
+### Julia
+
+Applications:
+```
+Artificial intelligence & machine learning
+```
+
+Extensions:
+```
+.jl
+```
+
 - Alice
 - Elm
 - APL
@@ -597,14 +763,8 @@ Extensions:
 - Oz
 
 - Crystal
-- Scratch
-- ChucK
-- Io
-- J
-- REXX
-- Ring
-- S
-- SPARK
-- Q
+
+
+
 
 
