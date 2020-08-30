@@ -196,6 +196,7 @@ Extensions:
 ```
 
 #### 11-20:
+
 ### Ruby
 
 Applications:
@@ -337,6 +338,9 @@ Extensions:
 ```
 .kt  .ktm  .kts
 ```
+
+#### 21-30:
+
 ### Scheme
 
 Applications:
@@ -375,8 +379,6 @@ Extensions:
 .f  .f77  .for  .fpp
 ```
 
-
-#### 21-30:
 ### JSON
 
 Applications:
@@ -490,6 +492,8 @@ Extensions:
 .el  .emacs  .emacs.desktop
 ```
 
+#### 31-40
+
 ### Batchfile
 
 Applications:
@@ -528,8 +532,6 @@ Extensions:
 ```
 .e
 ```
-
-#### 31-40:
 
 ### REXX
 
@@ -655,6 +657,8 @@ Extensions:
 .lvproj
 ```
 
+#### 41-50:
+
 ### Prolog
 
 Applications:
@@ -696,8 +700,6 @@ Extensions:
 ```
 .cob  .cbl  .ccp  .cobol  .cpy
 ```
-
-#### 41-50:
 
 ### Groovy
 
@@ -789,6 +791,7 @@ Extensions:
 ```
 .d  .di
 ```
+#### 51-60:
 
 ### R
 
@@ -844,8 +847,6 @@ Extensions:
 .tcl  .adp  .tm
 ```
 
-#### 51-60:
-
 ### Julia
 
 Applications:
@@ -883,11 +884,8 @@ Extensions:
 ```
 
 - Elm
-- APL
 - Objective-C
 - Slim
-- BlitzMax
-- Clipper
 - Clojure
 - Oz
 
