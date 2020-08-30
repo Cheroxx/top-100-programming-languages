@@ -515,6 +515,7 @@ Extensions:
 ```
 .ex  .exs
 ```
+
 ### Eiffel
 
 Applications:
@@ -694,19 +695,98 @@ Extensions:
 ```
 
 #### 41-50:
+### Groovy
 
-- Groovy
-- MATLAB
-- Apex
-- Opal
-- Erlang
-- MQL4
-- D
+Applications:
+```
+Java platform integration
+Web development
+```
+
+Extensions:
+```
+.groovy  .grt  .gtpl  .gvy
+```
+  
+### MATLAB
+
+Applications:
+```
+Mathematics computation
+Data analysis & visualization
+Programming & algorithm development
+```
+
+Extensions:
+```
+.matlab  .m
+```
+### Apex
+
+Applications:
+```
+Enterprise web app development
+Created by Oracle
+```
+
+Extensions:
+```
+.cls
+```
+### Opal
+
+Applications:
+```
+OPtimized Applicative Language (OPAL) functional programming
+Designed for high level and low level software development
+```
+
+Extensions:
+```
+.opal
+```
+### Erlang
+Applications:
+```
+Real-time systems development
+E-commerce, banking, telecommunications applications
+Distributed apps (Facebook, WhatsApp, T-Mobile, Motorola, Ericsson, Yahoo, Amazon use Erlang)
+```
+
+Extensions:
+```
+.erl  .app.src  .es  .escript  .hrl  .xrl  .yrl
+```
+
+### Crystal
+
+Applications:
+```
+Web app & software development
+```
+
+Extensions:
+```
+.cr
+```
+
+### D
+
+Applications:
+```
+Systems level programming
+```
+
+Extensions:
+```
+.d  .di
+```
 
 ### R
 
 Applications:
 ```
+Statistical computing and graphics development
 Artificial intelligence & machine learning
 ```
 
@@ -742,6 +822,18 @@ Extensions:
 
 ### Tcl
 
+Applications:
+```
+Tool Command Language (Tcl)
+GUI development
+Embedded integration in C applications
+```
+
+Extensions:
+```
+.tcl  .adp  .tm
+```
+
 #### 51-60:
 ### Julia
 
@@ -765,7 +857,7 @@ Extensions:
 - Clojure
 - Oz
 
-- Crystal
+
 
 
 
