@@ -352,7 +352,8 @@ Extensions:
 
 Applications:
 ```
-Web development (Google, Uber, Basecamp, Medium, Intel, BBC)
+Web development 
+Google, Uber, Basecamp, Medium, Intel, BBC, Docker, Kubernetes, CloudFlare, Google & Netflix powered by Go
 Developed by Google
 ```
 
@@ -529,6 +530,7 @@ Extensions:
 ```
 
 #### 31-40:
+
 ### REXX
 
 Applications:
@@ -541,6 +543,7 @@ Extensions:
 ```
 .rexx  .pprx  .rex
 ```
+
 ### Lua
 
 Applications:
@@ -695,6 +698,7 @@ Extensions:
 ```
 
 #### 41-50:
+
 ### Groovy
 
 Applications:
@@ -721,6 +725,7 @@ Extensions:
 ```
 .matlab  .m
 ```
+
 ### Apex
 
 Applications:
@@ -733,6 +738,7 @@ Extensions:
 ```
 .cls
 ```
+
 ### Opal
 
 Applications:
@@ -745,7 +751,9 @@ Extensions:
 ```
 .opal
 ```
+
 ### Erlang
+
 Applications:
 ```
 Real-time systems development
@@ -827,6 +835,8 @@ Applications:
 Tool Command Language (Tcl)
 GUI development
 Embedded integration in C applications
+Network administration & scripting
+Cisco IOS (Internetwork Operating System), switches, routers
 ```
 
 Extensions:
@@ -835,11 +845,14 @@ Extensions:
 ```
 
 #### 51-60:
+
 ### Julia
 
 Applications:
 ```
 Artificial intelligence & machine learning
+Data science programming
+Science-focused including physics, chemistry, astronomy, engineering, bioinformatics
 ```
 
 Extensions:
@@ -847,7 +860,28 @@ Extensions:
 .jl
 ```
 
-- Alice
+### Io
+
+Applications:
+```
+Web app & software development
+```
+
+Sample code:
+```io
+Io> slotSummary
+==>  Object_0x20c4e0:
+  Lobby = Object_0x20c4e0
+  Protos = Object_0x20bff0
+  exit = method(...)
+  forward = method(...)
+```
+
+Extensions:
+```
+.io
+```
+
 - Elm
 - APL
 - Objective-C
