@@ -92,7 +92,7 @@ Extensions:
 
 Applications:
 ```
-Structured query language (SQL) for relational database management
+Structured query language (SQL) for relational database management (MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres)
 Data stream management systems
 Often SQL code embedded in other programming languages (C++, PHP, Javascript, Python)
 ```
