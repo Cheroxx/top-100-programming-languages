@@ -303,7 +303,8 @@ Extensions:
 
 Applications:
 ```
-System software development 
+Systems & hardware level programming
+Enterprise users (Telenor, Digital, SmartThin, Dropbox, Wire, Braintree, Faraday)
 ```
 
 Extensions:
@@ -514,6 +515,7 @@ Web app development (PagerDuty, Discord, E-Metro Tel, Pinterest, Moz, Changelog,
 Embedded software development 
 Functional programming 
 Multimedia processing
+Real-time distributed applications
 ```
 
 Extensions:
@@ -706,7 +708,7 @@ Extensions:
 Applications:
 ```
 Java platform integration
-Web development
+Web development (Oracle Sales Cloud,  eXo platform, LinkedIn, XWiki Saas, DataMelt, Mastercard, Netflix use Groovy)
 ```
 
 Extensions:
@@ -773,6 +775,7 @@ Extensions:
 Applications:
 ```
 Web app & software development
+Currently in development phase
 ```
 
 Extensions:
@@ -791,6 +794,7 @@ Extensions:
 ```
 .d  .di
 ```
+
 #### 51-60:
 
 ### R
@@ -852,7 +856,7 @@ Extensions:
 Applications:
 ```
 Artificial intelligence & machine learning
-Data science programming
+Data science, numerical analysis & computational science
 Science-focused including physics, chemistry, astronomy, engineering, bioinformatics
 ```
 
@@ -883,11 +887,72 @@ Extensions:
 .io
 ```
 
-- Elm
-- Objective-C
-- Slim
-- Clojure
-- Oz
+### Elm
+
+Applications:
+```
+Web browser based GUI development
+Front-end web app development specific
+```
+
+Extensions:
+```
+.elm
+```
+
+### Objective-C
+
+Applications:
+```
+Systems level development (Apple)
+Web app development
+```
+
+Extensions:
+```
+.m  .h
+```
+### Slim
+
+Applications:
+```
+HTML markup language
+Economic templates & scripting syntax
+Supports embedded integration in Javascript, Ruby
+```
+
+Extensions:
+```
+.slim
+```
+
+### Clojure
+
+Applications:
+```
+Back-end web development & scripting
+Concurrent & functional programming
+Java platform
+```
+
+Extensions:
+```
+.clj  .boot  .cl2  .cljc  .cljs  .cljs.hl  .cljscm  .cljx  .hic
+```
+
+### Oz
+
+Applications:
+```
+Concurrent, distributed & real-time web development
+Mozart Programming System (Linux, Windows, MacOs)
+Educational programming
+```
+
+Extensions:
+```
+.oz
+```
 
 
 
